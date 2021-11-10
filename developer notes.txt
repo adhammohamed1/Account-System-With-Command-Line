@@ -1,0 +1,9 @@
+TODO:
+
+1. Plan developer mode further
+
+2. Build infrastructure for command line
+
+3. Software engineer the program
+
+4. Clean up the code

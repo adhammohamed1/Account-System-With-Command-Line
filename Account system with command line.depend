@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1612102690 source:c:\users\drogo\desktop\projects\c  projects\account system\account system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.h"
+	"myfunc.h"
+	"cmd.h"
+
+1612134171 c:\users\drogo\desktop\projects\c  projects\account system\account system\data.h
+
+1612137253 source:c:\users\drogo\desktop\projects\c  projects\account system\account system\account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.h"
+
+1612137020 c:\users\drogo\desktop\projects\c  projects\account system\account system\myfunc.h
+
+1613343244 source:c:\users\drogo\desktop\projects\c  projects\account system\account system\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.h"
+	"myfunc.h"
+	<conio.h>
+	<ctype.h>
+	"cmd.h"
+
+1612115949 c:\users\drogo\desktop\projects\c  projects\account system\account system\cmd.h
+
+1612140109 source:c:\users\drogo\desktop\projects\c  projects\account system\account system\cmd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"data.h"
+	"myfunc.h"
+	<conio.h>
+	<ctype.h>
+	"cmd.h"
+	"menus.h"
+
+1612009226 c:\users\drogo\desktop\projects\c  projects\account system\account system\menus.h
+
+1612113583 source:c:\users\drogo\desktop\projects\c  projects\account system\account system\func.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"cmd.h"
+	"data.h"
+

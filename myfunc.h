@@ -1,0 +1,12 @@
+void load_accounts();
+void print_logo();
+void homepage();
+int reg_check_credentials();
+void signIn_menu();
+void regiser_menu();
+int si_check_credentials();
+void save();
+void signIn(char*,char*,char*,char*,int);
+char *getpass();
+void breachalert();
+void encdecpass(char,int);
